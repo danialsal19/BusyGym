@@ -10,6 +10,8 @@ The team designed a system (app) to solve the problem of a busy gym by informing
 
 Key Takeaway: By focusing on primary stakeholders' problems and centering the solution around their needs we can make a measurable positive impact.
 
+### Check out the Interface for yourself:
+
 [Gym Goer View](https://gym.aprilintelligence.com/)
 
 [Gym Manager View](https://gym.aprilintelligence.com/manager)
