@@ -10,7 +10,7 @@ This project was created for our class on usability and human-centered design. W
 
 The team designed a system (app) to solve the problem of a busy gym by informing gym-goers with real-time availability and predictive forecasts for specific granular level gym equipment.
 
-Key Takeaway: By focusing on primary stakeholders' problems and centering the solution around their needs we can make a measurable positive impact.
+Key Takeaway: We learned by focusing on primary stakeholders' problems and centering the solution around their needs we can make a measurable positive impact.
 
 ### Check out the Interface for yourself:
 
