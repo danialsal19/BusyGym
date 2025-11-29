@@ -4,7 +4,7 @@ This project was created for our class on usability and human-centered design. W
 
 🎥 **Watch the video:** [YouTube Link](https://www.youtube.com/watch?v=HMIeyY3_xoM)
 
-* Video won in our in-class competition
+* Video won in our in-class competition 🏆 
 
 ## TLDW:
 
